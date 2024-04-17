@@ -2,7 +2,11 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Reviewing
 
-Thank you for taking the time to review this code challenge, here's a link to the requested loom for this repo:
+Thank you for taking the time to review this code challenge.
+
+Here's a link to the requested loom for this repo:
+
+[Warehouse Workflows Loom](https://www.loom.com/share/c1d8d394f84e455ba2c2ae30b7d725da)
 
 ## Running the Challenge Submission:
 
