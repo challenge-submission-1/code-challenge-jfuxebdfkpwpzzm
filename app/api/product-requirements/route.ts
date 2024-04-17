@@ -25,9 +25,10 @@ export async function GET(request: Request) {
     .flatMap((order) => {
       return order.lineItems;
     })
-    // transform ids to complete line item products
+    // create a flat list of all line item products
     .flatMap((lineItemId) => {
-      // Use an indexed version of the line items data for constant time lookup
+      // Retrieve complete line items by line item id using an indexed
+      // version of the line items data for constant time lookup.
       const lineItem = lineItemsIndexedById[lineItemId];
 
       return lineItem.products;
