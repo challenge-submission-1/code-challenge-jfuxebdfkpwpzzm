@@ -7,7 +7,7 @@ Thank you for taking the time to review this code challenge.
 
 Here's a link to the requested loom for this repo:
 
-[Warehouse Workflows Loom](https://www.loom.com/share/c1d8d394f84e455ba2c2ae30b7d725da)
+[Warehouse Workflows Loom](https://www.loom.com/share/dc8066742a1645bab85d72c8d890da37)
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
