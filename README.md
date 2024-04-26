@@ -1,9 +1,7 @@
 ## Warehouse Workflows
 
 This repo contains a Next.js and Material UI solution to the warehouse
-workflows challenge.
-
-Thank you for taking the time to review this code challenge.
+workflows challenge. Thank you for taking the time to review this code challenge.
 
 Here's a link to the requested loom for this repo:
 
